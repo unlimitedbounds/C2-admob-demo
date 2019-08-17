@@ -13,7 +13,7 @@
 	<preference name="fullscreen" value="true" />
 	<preference name="DisallowOverscroll" value="true" />
 	<preference name="AllowInlineMediaPlayback" value="true" />
-	<preference name="Phonegap-version" value="cli-8.0.0">
+	<preference name="Phonegap-version" value="cli-8.0.0" />
 	
 	<preference name="deployment-target" value="10.0" />
 	<preference name="android-minSdkVersion" value="21" />
@@ -25,7 +25,7 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
 	<Plugin name="cordova-plugin-admob-free">
-		<variable name="ADMOB_APP_ID" value="ca-app-pub-3940256099942544~3347511713">
+		<variable name="ADMOB_APP_ID" value="ca-app-pub-3940256099942544~3347511713" />
 	</plugin>
 
 
